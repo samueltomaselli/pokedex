@@ -1,3 +1,3 @@
 # pokédex
-Pokédex created as an alternative to study APIs.
+Pokédex created as an alternative to study APIs
 - Credits: "Manual do Dev".
